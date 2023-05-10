@@ -1,0 +1,376 @@
+lulcID,lulc,ontoName
+19,Temporary Crop,barley
+19,Temporary Crop,common bean
+19,Temporary Crop,broad bean
+19,Temporary Crop,buckwheat
+19,Temporary Crop,manioc | cassava | tapioca
+19,Temporary Crop,castor bean
+19,Temporary Crop,garlic
+19,Temporary Crop,peanut | goundnut
+19,Temporary Crop,jute
+19,Temporary Crop,linseed
+19,Temporary Crop,maize
+19,Temporary Crop,cantaloupe
+19,Temporary Crop,melon
+19,Temporary Crop,oat
+19,Temporary Crop,onion
+19,Temporary Crop,potato
+19,Temporary Crop,rapeseed | colza
+19,Temporary Crop,rye
+19,Temporary Crop,sesame
+19,Temporary Crop,sorghum
+19,Temporary Crop,strawberry
+19,Temporary Crop,sunflower
+19,Temporary Crop,sweet potato
+19,Temporary Crop,tomato
+19,Temporary Crop,watermelon
+19,Temporary Crop,wheat
+19,Temporary Crop,yam
+19,Temporary Crop,triticale
+19,Temporary Crop,guarana
+41,other Temporary Crop,barley
+41,other Temporary Crop,common bean
+41,other Temporary Crop,broad bean
+41,other Temporary Crop,buckwheat
+41,other Temporary Crop,manioc | cassava | tapioca
+41,other Temporary Crop,castor bean
+41,other Temporary Crop,garlic
+41,other Temporary Crop,peanut | goundnut
+41,other Temporary Crop,jute
+41,other Temporary Crop,linseed
+41,other Temporary Crop,maize
+41,other Temporary Crop,cantaloupe
+41,other Temporary Crop,melon
+41,other Temporary Crop,oat
+41,other Temporary Crop,onion
+41,other Temporary Crop,potato
+41,other Temporary Crop,rapeseed | colza
+41,other Temporary Crop,rye
+41,other Temporary Crop,sesame
+41,other Temporary Crop,sorghum
+41,other Temporary Crop,strawberry
+41,other Temporary Crop,sunflower
+41,other Temporary Crop,sweet potato
+41,other Temporary Crop,tomato
+41,other Temporary Crop,watermelon
+41,other Temporary Crop,wheat
+41,other Temporary Crop,yam
+41,other Temporary Crop,triticale
+41,other Temporary Crop,guarana
+20,Sugar cane,sugar cane
+36,Perennial Crop,apple
+36,Perennial Crop,avocado
+36,Perennial Crop,banana
+36,Perennial Crop,cashew
+36,Perennial Crop,cocoa | cacao
+36,Perennial Crop,coconut
+36,Perennial Crop,fig
+36,Perennial Crop,grape
+36,Perennial Crop,guava
+36,Perennial Crop,mango
+36,Perennial Crop,mangosteen
+36,Perennial Crop,mate
+36,Perennial Crop,oil palm
+36,Perennial Crop,olive
+36,Perennial Crop,papaya
+36,Perennial Crop,peach
+36,Perennial Crop,pear
+36,Perennial Crop,pea
+36,Perennial Crop,pepper
+36,Perennial Crop,persimmon
+36,Perennial Crop,pineapple
+36,Perennial Crop,quince
+36,Perennial Crop,ramie
+36,Perennial Crop,natural rubber
+36,Perennial Crop,sisal
+36,Perennial Crop,satsuma
+36,Perennial Crop,tea
+36,Perennial Crop,tobacco
+36,Perennial Crop,tung nut
+36,Perennial Crop,walnut
+36,Perennial Crop,acai
+48,other Perennial Crop,apple
+48,other Perennial Crop,avocado
+48,other Perennial Crop,banana
+48,other Perennial Crop,cashew
+48,other Perennial Crop,cocoa | cacao
+48,other Perennial Crop,coconut
+48,other Perennial Crop,fig
+48,other Perennial Crop,grape
+48,other Perennial Crop,guava
+48,other Perennial Crop,mango
+48,other Perennial Crop,mangosteen
+48,other Perennial Crop,mate
+48,other Perennial Crop,oil palm
+48,other Perennial Crop,olive
+48,other Perennial Crop,papaya
+48,other Perennial Crop,peach
+48,other Perennial Crop,pear
+48,other Perennial Crop,pea
+48,other Perennial Crop,pepper
+48,other Perennial Crop,persimmon
+48,other Perennial Crop,pineapple
+48,other Perennial Crop,quince
+48,other Perennial Crop,ramie
+48,other Perennial Crop,natural rubber
+48,other Perennial Crop,sisal
+48,other Perennial Crop,satsuma
+48,other Perennial Crop,tea
+48,other Perennial Crop,tobacco
+48,other Perennial Crop,tung nut
+48,other Perennial Crop,walnut
+48,other Perennial Crop,acai
+39,Soybean,soybean
+40,Rice,rice
+46,Coffee,coffee
+47,Citrus,grapefruit
+47,Citrus,pomelo
+47,Citrus,lemon
+47,Citrus,lime
+47,Citrus,orange
+47,Citrus,nectarine
+47,Citrus,clementine | mandarine
+47,Citrus,tangerine
+62,Cotton,cotton
+18,Agriculture,barley
+18,Agriculture,common bean
+18,Agriculture,broad bean
+18,Agriculture,buckwheat
+18,Agriculture,manioc | cassava | tapioca
+18,Agriculture,castor bean
+18,Agriculture,garlic
+18,Agriculture,peanut | goundnut
+18,Agriculture,jute
+18,Agriculture,linseed
+18,Agriculture,maize
+18,Agriculture,cantaloupe
+18,Agriculture,melon
+18,Agriculture,oat
+18,Agriculture,onion
+18,Agriculture,potato
+18,Agriculture,rapeseed | colza
+18,Agriculture,rye
+18,Agriculture,sesame
+18,Agriculture,sorghum
+18,Agriculture,strawberry
+18,Agriculture,sunflower
+18,Agriculture,sweet potato
+18,Agriculture,tomato
+18,Agriculture,watermelon
+18,Agriculture,wheat
+18,Agriculture,yam
+18,Agriculture,triticale
+18,Agriculture,guarana
+18,Agriculture,sugar cane
+18,Agriculture,apple
+18,Agriculture,avocado
+18,Agriculture,banana
+18,Agriculture,cashew
+18,Agriculture,cocoa | cacao
+18,Agriculture,coconut
+18,Agriculture,fig
+18,Agriculture,grape
+18,Agriculture,guava
+18,Agriculture,mango
+18,Agriculture,mangosteen
+18,Agriculture,mate
+18,Agriculture,oil palm
+18,Agriculture,olive
+18,Agriculture,papaya
+18,Agriculture,peach
+18,Agriculture,pear
+18,Agriculture,pea
+18,Agriculture,pepper
+18,Agriculture,persimmon
+18,Agriculture,pineapple
+18,Agriculture,quince
+18,Agriculture,ramie
+18,Agriculture,natural rubber
+18,Agriculture,sisal
+18,Agriculture,satsuma
+18,Agriculture,tea
+18,Agriculture,tobacco
+18,Agriculture,tung nut
+18,Agriculture,walnut
+18,Agriculture,acai
+18,Agriculture,soybean
+18,Agriculture,rice
+18,Agriculture,coffee
+18,Agriculture,grapefruit
+18,Agriculture,pomelo
+18,Agriculture,lemon
+18,Agriculture,lime
+18,Agriculture,orange
+18,Agriculture,nectarine
+18,Agriculture,clementine | mandarine
+18,Agriculture,tangerine
+18,Agriculture,cotton
+14,Farming,barley
+14,Farming,common bean
+14,Farming,broad bean
+14,Farming,buckwheat
+14,Farming,manioc | cassava | tapioca
+14,Farming,castor bean
+14,Farming,garlic
+14,Farming,peanut | goundnut
+14,Farming,jute
+14,Farming,linseed
+14,Farming,maize
+14,Farming,cantaloupe
+14,Farming,melon
+14,Farming,oat
+14,Farming,onion
+14,Farming,potato
+14,Farming,rapeseed | colza
+14,Farming,rye
+14,Farming,sesame
+14,Farming,sorghum
+14,Farming,strawberry
+14,Farming,sunflower
+14,Farming,sweet potato
+14,Farming,tomato
+14,Farming,watermelon
+14,Farming,wheat
+14,Farming,yam
+14,Farming,triticale
+14,Farming,guarana
+14,Farming,sugar cane
+14,Farming,apple
+14,Farming,avocado
+14,Farming,banana
+14,Farming,cashew
+14,Farming,cocoa | cacao
+14,Farming,coconut
+14,Farming,fig
+14,Farming,grape
+14,Farming,guava
+14,Farming,mango
+14,Farming,mangosteen
+14,Farming,mate
+14,Farming,oil palm
+14,Farming,olive
+14,Farming,papaya
+14,Farming,peach
+14,Farming,pear
+14,Farming,pea
+14,Farming,pepper
+14,Farming,persimmon
+14,Farming,pineapple
+14,Farming,quince
+14,Farming,ramie
+14,Farming,natural rubber
+14,Farming,sisal
+14,Farming,satsuma
+14,Farming,tea
+14,Farming,tobacco
+14,Farming,tung nut
+14,Farming,walnut
+14,Farming,acai
+14,Farming,soybean
+14,Farming,rice
+14,Farming,coffee
+14,Farming,grapefruit
+14,Farming,pomelo
+14,Farming,lemon
+14,Farming,lime
+14,Farming,orange
+14,Farming,nectarine
+14,Farming,clementine | mandarine
+14,Farming,tangerine
+14,Farming,cotton
+21,Mosaic of Uses,barley
+21,Mosaic of Uses,common bean
+21,Mosaic of Uses,broad bean
+21,Mosaic of Uses,buckwheat
+21,Mosaic of Uses,manioc | cassava | tapioca
+21,Mosaic of Uses,castor bean
+21,Mosaic of Uses,garlic
+21,Mosaic of Uses,peanut | goundnut
+21,Mosaic of Uses,jute
+21,Mosaic of Uses,linseed
+21,Mosaic of Uses,maize
+21,Mosaic of Uses,cantaloupe
+21,Mosaic of Uses,melon
+21,Mosaic of Uses,oat
+21,Mosaic of Uses,onion
+21,Mosaic of Uses,potato
+21,Mosaic of Uses,rapeseed | colza
+21,Mosaic of Uses,rye
+21,Mosaic of Uses,sesame
+21,Mosaic of Uses,sorghum
+21,Mosaic of Uses,strawberry
+21,Mosaic of Uses,sunflower
+21,Mosaic of Uses,sweet potato
+21,Mosaic of Uses,tomato
+21,Mosaic of Uses,watermelon
+21,Mosaic of Uses,wheat
+21,Mosaic of Uses,yam
+21,Mosaic of Uses,triticale
+21,Mosaic of Uses,guarana
+21,Mosaic of Uses,sugar cane
+21,Mosaic of Uses,apple
+21,Mosaic of Uses,avocado
+21,Mosaic of Uses,banana
+21,Mosaic of Uses,cashew
+21,Mosaic of Uses,cocoa | cacao
+21,Mosaic of Uses,coconut
+21,Mosaic of Uses,fig
+21,Mosaic of Uses,grape
+21,Mosaic of Uses,guava
+21,Mosaic of Uses,mango
+21,Mosaic of Uses,mangosteen
+21,Mosaic of Uses,mate
+21,Mosaic of Uses,oil palm
+21,Mosaic of Uses,olive
+21,Mosaic of Uses,papaya
+21,Mosaic of Uses,peach
+21,Mosaic of Uses,pear
+21,Mosaic of Uses,pea
+21,Mosaic of Uses,pepper
+21,Mosaic of Uses,persimmon
+21,Mosaic of Uses,pineapple
+21,Mosaic of Uses,quince
+21,Mosaic of Uses,ramie
+21,Mosaic of Uses,natural rubber
+21,Mosaic of Uses,sisal
+21,Mosaic of Uses,satsuma
+21,Mosaic of Uses,tea
+21,Mosaic of Uses,tobacco
+21,Mosaic of Uses,tung nut
+21,Mosaic of Uses,walnut
+21,Mosaic of Uses,acai
+21,Mosaic of Uses,soybean
+21,Mosaic of Uses,rice
+21,Mosaic of Uses,coffee
+21,Mosaic of Uses,grapefruit
+21,Mosaic of Uses,pomelo
+21,Mosaic of Uses,lemon
+21,Mosaic of Uses,lime
+21,Mosaic of Uses,orange
+21,Mosaic of Uses,nectarine
+21,Mosaic of Uses,clementine | mandarine
+21,Mosaic of Uses,tangerine
+21,Mosaic of Uses,cotton
+1,Forest,noMatch
+3,Forest Formation,noMatch
+4,Savanna Formation,noMatch
+5,Mangrove,noMatch
+9,Forest Plantation,noMatch
+10,Non Forest Natural Formation,noMatch
+11,Wetland,noMatch
+12,Grassland,noMatch
+13,Other non Forest Formations,noMatch
+15,Pasture,noMatch
+22,Non vegetated area,noMatch
+23,"Beach, Dune and Sand Spot",noMatch
+24,Urban Area,noMatch
+25,Other non Vegetated Areas,noMatch
+26,Water,noMatch
+27,Non Observed,noMatch
+29,Rocky Outcrop,noMatch
+30,Mining,noMatch
+31,Aquaculture,noMatch
+32,Hypersaline Tidal Falt,noMatch
+33,"River, Lake and Ocean",noMatch
+49,Wooded Sandbank Vegetation,noMatch
+50,Herbaceous Sandbank Vegetation,noMatch

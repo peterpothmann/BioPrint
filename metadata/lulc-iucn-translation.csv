@@ -1,0 +1,162 @@
+iucn,lulc,lulcID
+Forest - Boreal,Forest Formation,3
+Forest - Subarctic,Forest Formation,3
+Forest - Subantarctic,Forest Formation,3
+Forest - Temperate,Forest Formation,3
+Forest - Subtropical/Tropical Dry,Forest Formation,3
+Forest - Subtropical/Tropical Moist Lowland,Forest Formation,3
+Forest - Subtropical/Tropical Mangrove Vegetation Above High Tide Level,Forest Formation,3
+Forest - Subtropical/Tropical Swamp,Forest Formation,3
+Forest - Subtropical/Tropical Moist Montane,Forest Formation,3
+Marine Oceanic - Epipelagic (0-200m),"River,Lake and Ocean",33
+Marine Oceanic - Mesopelagic (200-1000m),"River,Lake and Ocean",33
+Marine Oceanic - Bathypelagic (1000-4000m),"River,Lake and Ocean",33
+Marine Oceanic - Abyssopelagic (4000-6000m),"River,Lake and Ocean",33
+"Marine Deep Benthic - Continental Slope/Bathyl Zone (200-4,000m)","River,Lake and Ocean",33
+Marine Deep Benthic - Seamount,"River,Lake and Ocean",33
+"Marine Deep Benthic - Abyssal Plain (4,000-6,000m)","River,Lake and Ocean",33
+Marine Deep Benthic - Deep Sea Vents (Rifts/Seeps),"River,Lake and Ocean",33
+"Marine Deep Benthic - Hadal/Deep Sea Trench (>6,000m)","River,Lake and Ocean",33
+"Marine Deep Benthic - Abyssal Mountain/Hills (4,000-6,000m)","River,Lake and Ocean",33
+Marine Neritic - Coral Reef,"River,Lake and Ocean",33
+Marine Intertidal - Salt Marshes (Emergent Grasses),Wetland,11
+"Marine Intertidal - Mud Flats and Salt Flats,",Wetland,11
+"Marine Intertidal - Mud Flats and Salt Flats,",Salt Flat,32
+Marine Intertidal - Rocky Shoreline,Wetland,11
+Marine Intertidal - Rocky Shoreline,Rocky Outcrop,29
+"Marine Intertidal - Sandy Shoreline and/or Beaches, Sand Bars, Spits, Etc",Wetland,11
+"Marine Intertidal - Sandy Shoreline and/or Beaches, Sand Bars, Spits, Etc","Beach, Dune and Sand Spot",23
+Marine Intertidal - Tidepools,Wetland,11
+Marine Intertidal - Mangrove Submerged Roots,Mangrove,5
+Marine Intertidal - Shingle and/or Pebble Shoreline and/or Beaches,Wetland,11
+Marine Coastal/Supratidal - Sea Cliffs and Rocky Offshore Islands,Rocky Outcrop,29
+Marine Coastal/supratidal - Coastal Caves/Karst,Rocky Outcrop,29
+Marine Coastal/Supratidal - Coastal Sand Dunes,"Beach, Dune and Sand Spot",23
+Marine Coastal/Supratidal - Coastal Brackish/Saline Lagoons/Marine Lakes,"River,Lake and Ocean",33
+Marine Coastal/Supratidal - Coastal Freshwater Lakes,"River,Lake and Ocean",33
+Artificial/Terrestrial - Rural Gardens,Soybean,39
+Artificial/Terrestrial - Rural Gardens,Sugar cane,20
+Artificial/Terrestrial - Rural Gardens,Rice,40
+Artificial/Terrestrial - Rural Gardens,other Temporary Crops,41
+Artificial/Terrestrial - Rural Gardens,Coffee,46
+Artificial/Terrestrial - Rural Gardens,Citrus,47
+Artificial/Terrestrial - Rural Gardens,other Perennial Crops,48
+Artificial/Terrestrial - Rural Gardens,Mosaic Agriculture and Pasture,21
+Artificial/Terrestrial - Arable Land,Soybean,39
+Artificial/Terrestrial - Arable Land,Sugar cane,20
+Artificial/Terrestrial - Arable Land,Rice,40
+Artificial/Terrestrial - Arable Land,other Temporary Crops,41
+Artificial/Terrestrial - Arable Land,Coffee,46
+Artificial/Terrestrial - Arable Land,Citrus,47
+Artificial/Terrestrial - Arable Land,other Perennial Crops,48
+Artificial/Terrestrial - Arable Land,Mosaic Agriculture and Pasture,21
+Artificial/Terrestrial - Plantations,Forest Plantation,9
+Artificial/Terrestrial - Pastureland,Pasture,15
+Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,Soybean,39
+Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,Sugar cane,20
+Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,Rice,40
+Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,other Temporary Crops,41
+Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,Coffee,46
+Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,Citrus,47
+Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,other Perennial Crops,48
+Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,Mosaic Agriculture and Pasture,21
+Artificial/Terrestrial - Urban Areas,Urban Area,24
+Artificial/Aquatic - Ponds (below 8ha),"River,Lake and Ocean",33
+Artificial/Aquatic - Water Storage Areas (over 8ha),"River,Lake and Ocean",33
+Artificial/Aquatic - Aquaculture Ponds,Aquaculture,31
+"Artificial/Aquatic - Canals and Drainage Channels, Ditches","River,Lake and Ocean",33
+Artificial/Aquatic - Excavations (open),"River,Lake and Ocean",33
+Artificial/Aquatic - Wastewater Treatment Areas,"River,Lake and Ocean",33
+Artificial/Aquatic - Irrigated Land (includes irrigation channels),Soybean,39
+Artificial/Aquatic - Irrigated Land (includes irrigation channels),Sugar cane,20
+Artificial/Aquatic - Irrigated Land (includes irrigation channels),Rice,40
+Artificial/Aquatic - Irrigated Land (includes irrigation channels),other Temporary Crops,41
+Artificial/Aquatic - Irrigated Land (includes irrigation channels),Coffee,46
+Artificial/Aquatic - Irrigated Land (includes irrigation channels),Citrus,47
+Artificial/Aquatic - Irrigated Land (includes irrigation channels),other Perennial Crops,48
+Artificial/Aquatic - Irrigated Land (includes irrigation channels),Mosaic Agriculture and Pasture,21
+Artificial/Aquatic - Seasonally Flooded Agricultural Land,Soybean,39
+Artificial/Aquatic - Seasonally Flooded Agricultural Land,Sugar cane,20
+Artificial/Aquatic - Seasonally Flooded Agricultural Land,Rice,40
+Artificial/Aquatic - Seasonally Flooded Agricultural Land,other Temporary Crops,41
+Artificial/Aquatic - Seasonally Flooded Agricultural Land,Coffee,46
+Artificial/Aquatic - Seasonally Flooded Agricultural Land,Citrus,47
+Artificial/Aquatic - Seasonally Flooded Agricultural Land,other Perennial Crops,48
+Artificial/Aquatic - Seasonally Flooded Agricultural Land,Mosaic Agriculture and Pasture,21
+Artificial/Aquatic - Salt Exploitation Sites,Other non Vegetaded Areas,25
+Artificial/Aquatic - Karst and Other Subterranean Hydrological Systems (human-made),Other non Vegetaded Areas,25
+Artificial/Marine - Marine Anthropogenic Structures,"River,Lake and Ocean",33
+Artificial/Marine - Mariculture Cages,"River,Lake and Ocean",33
+Artificial/Marine - Mari/Brackishculture Ponds,"River,Lake and Ocean",33
+Savanna - Moist,Savanna Formation,4
+Savanna - Dry,Savanna Formation,4
+Shrubland - Temperate,Other non Forest Formations,13
+Shrubland - Subtropical/Tropical Moist,Other non Forest Formations,13
+Shrubland - Mediterranean-type Shrubby Vegetation,Other non Forest Formations,13
+Shrubland - Subtropical/Tropical Dry,Other non Forest Formations,13
+Shrubland - Subtropical/Tropical High Altitude,Other non Forest Formations,13
+Shrubland - Subantarctic,Other non Forest Formations,13
+Shrubland - Boreal,Other non Forest Formations,13
+Shrubland - Subarctic,Other non Forest Formations,13
+Grassland - Subtropical/Tropical Seasonally Wet/Flooded,Grassland,12
+Grassland - Subtropical/Tropical Dry,Grassland,12
+Grassland - Temperate,Grassland,12
+Grassland - Subtropical/Tropical High Altitude,Grassland,12
+Grassland - Tundra,Grassland,12
+Grassland - Subarctic,Grassland,12
+Grassland - Subantarctic,Grassland,12
+Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Wetland,11
+Wetlands (inland) - Seasonal/Intermittent/Irregular Rivers/Streams/Creeks,Wetland,11
+"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",Wetland,11
+Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Wetland,11
+Wetlands (inland) - Seasonal/Intermittent Freshwater Marshes/Pools (under 8ha),Wetland,11
+Wetlands (inland) - Shrub Dominated Wetlands,Wetland,11
+Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Wetland,11
+Wetlands (inland) - Freshwater Springs and Oases,Wetland,11
+Wetlands (inland) - Seasonal/Intermittent Freshwater Lakes (over 8ha),Wetland,11
+Wetlands (inland) - Karst and Other Subterranean Hydrological Systems (inland),Wetland,11
+"Wetlands (inland) - Permanent Saline, Brackish or Alkaline Lakes",Wetland,11
+"Wetlands (inland) - Permanent Saline, Brackish or Alkaline Marshes/Pools",Wetland,11
+"Wetlands (inland) - Seasonal/Intermittent Saline, Brackish or Alkaline Marshes/Pools",Wetland,11
+Wetlands (inland) - Permanent Inland Deltas,Wetland,11
+"Wetlands (inland) - Seasonal/Intermittent Saline, Brackish or Alkaline Lakes and Flats",Wetland,11
+Wetlands (inland) - Geothermal Wetlands,Wetland,11
+Wetlands (inland) - Tundra Wetlands (incl. pools and temporary waters from snowmelt),Wetland,11
+Wetlands (inland) - Alpine Wetlands (includes temporary waters from snowmelt),Wetland,11
+"Rocky areas (eg. inland cliffs, mountain peaks)",Rocky Outcrop,29
+Desert - Hot,"Beach, Dune and Sand Spot",23
+Desert - Temperate,"Beach, Dune and Sand Spot",23
+Desert - Cold,"Beach, Dune and Sand Spot",23
+Marine Neritic - Estuaries,"River,Lake and Ocean",33
+Marine Neritic - Subtidal Sandy,"River,Lake and Ocean",33
+Marine Neritic - Subtidal Sandy-Mud,"River,Lake and Ocean",33
+Marine Neritic - Subtidal Muddy,"River,Lake and Ocean",33
+Marine Neritic - Subtidal Loose Rock/pebble/gravel,"River,Lake and Ocean",33
+Marine Neritic - Pelagic,"River,Lake and Ocean",33
+Marine Neritic - Subtidal Rock and Rocky Reefs,"River,Lake and Ocean",33
+Marine Neritic - Seagrass (Submerged),"River,Lake and Ocean",33
+Marine Neritic - Macroalgal/Kelp,"River,Lake and Ocean",33
+Forest,Forest Formation,3
+Desert,"Beach, Dune and Sand Spot",23
+Shrubland,Other non Forest Formations,13
+Grassland,Grassland,12
+Wetlands (inland),Wetland,11
+Marine Neritic,"River,Lake and Ocean",33
+Marine Deep Benthic,"River,Lake and Ocean",33
+Savanna,Savanna Formation,4
+Marine Intertidal,Wetland,11
+Marine Oceanic,"River,Lake and Ocean",33
+Artificial/Aquatic & Marine,Aquaculture,31
+Artificial/Terrestrial,Soybean,39
+Artificial/Terrestrial,Sugar cane,20
+Artificial/Terrestrial,Rice,40
+Artificial/Terrestrial,other Temporary Crops,41
+Artificial/Terrestrial,Coffee,46
+Artificial/Terrestrial,Citrus,47
+Artificial/Terrestrial,other Perennial Crops,48
+Artificial/Terrestrial,Aquaculture,31
+Artificial/Terrestrial,Urban Area,24
+Artificial/Terrestrial,Pasture,15
+Artificial/Terrestrial,Mining,30
+Artificial/Terrestrial,Forest Plantation,9
+Artificial/Terrestrial,Mosaic Agriculture and Pasture,21

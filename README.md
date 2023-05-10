@@ -3,8 +3,19 @@
 ## Resources that need to be uploaded:
 1. Einteilung der Arten in habitat kategorien (x) -->  species-response-spill-over-parameter.csv
 2. PDF-Dateien der Module der Abbildungen (kann vielleicht auch in die Shiny app)
-3. Tabelle der Uebersetzung von LULC und Yield daten
+3. Tabelle der Uebersetzung von LULC und Yield daten (x)
 4. ...
+
+## species-info.csv
+- species included in study (all vertebrates with iucn raneg maps whose range map overlaps with brazil and has valid geometries)
+
+| var                | description     | 
+|--------------------|-----------------|
+| ID                 | unique identifer of obeservation |
+| taxonID            | unique identifer of the species  | 
+| binomial           | scientific name of the species | 
+| habitat            | name of iucn habitat classes | 
+| suitability        | if habitat class is suitable or marginal  | 
 
 ## species-response-spill-over-parameter.csv
 - Classification of species into response groups

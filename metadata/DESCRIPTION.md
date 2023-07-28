@@ -3,11 +3,12 @@
 
 | var                | description     |
 |--------------------|-----------------|
-| ID                 | unique identifer of obeservation |
+| ID                 | unique identifer of observation |
 | taxonID            | unique identifer of the species  |
 | binomial           | scientific name of the species |
 | habitat            | name of IUCN habitat type |
 | suitability        | if habitat class is suitable or marginal  |
+| class_id           | unique identifer of IUCN habitat type |
 
 ## species-response-spill-over-parameter.csv
 - Classification of species into response groups

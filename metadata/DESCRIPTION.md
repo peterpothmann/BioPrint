@@ -1,5 +1,5 @@
 ## species-info.csv
-- species included in study
+- All species included in study
 
 | var                | description     |
 |--------------------|-----------------|
@@ -12,7 +12,7 @@
 
 ## species-response-spill-over-parameter.csv
 - Classification of species into response groups
-- parameter values for responses and spill over effects
+- Parameter values for responses and spill over effects
 
 | var                | description     |
 |--------------------|-----------------|
@@ -23,7 +23,7 @@
 | spillParameter     | spill-over parameter  |
 
 ## lulc-iucn-translation.csv
-- translation of iucn habitat categories into MAPBIOMAS classification system
+- Translation of iucn habitat categories into MAPBIOMAS classification system
 - MAPBIOMAS project: https://mapbiomas.org/
 - IUCN habitat classification: https://www.iucnredlist.org/resources/habitat-classification-scheme
 
@@ -34,7 +34,7 @@
 | iucn               | name of the associated IUCN habitat type |
 
 ## yield-translation.csv
-- translation of yield classes into MAPBIOMAS classification system
+- Translation of yield classes into MAPBIOMAS classification system
 
 | var                | description     |
 |--------------------|-----------------|

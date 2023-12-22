@@ -2,7 +2,7 @@
 ##
 ## Script name: 99_lulc_iucn_translation.R
 ##
-## Purpose of script: updates aoh-info.csv, subsets with intersecting al1. add response group classification
+## Purpose of script: 
 ##
 ## Author: Peter Pothmann
 ##
